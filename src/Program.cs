@@ -23,7 +23,7 @@ namespace DFucker
 				DeleteLocalStorage(builds.Key).Wait();
 				Inject(builds.Key, builds.Value, jsScript).Wait();
 
-                StartBuild(builds.Key);
+                                StartBuild(builds.Key);
 			}
 		}
 
