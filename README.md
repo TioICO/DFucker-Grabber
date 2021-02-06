@@ -23,5 +23,3 @@ The most powerful token grabber
 # Some screenshots
 
 ![image](https://cdn.discordapp.com/attachments/807584504935743489/807598969151553556/unknown.png)
-
-![cc]()
